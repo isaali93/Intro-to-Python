@@ -1,4 +1,4 @@
-# Intro-to-Python
+# Introduction to Python Programming
 
 ## The Chapters
 
