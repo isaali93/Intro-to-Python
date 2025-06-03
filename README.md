@@ -1,5 +1,4 @@
 # Intro-to-Python
-# Contents
 
 ## The Chapters
 
