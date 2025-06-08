@@ -1,10 +1,9 @@
 '''
 1. Create a variable that has the current year
-2. Write a python script that asks the user their name and location.
-3. Print to the screen (on separate lines)
-  a. Their name in Title format and Location in Uppercase
-  b. Prompt the user for their gender and print the first character only
-  c. Ask the user for their birth year and print their current age to the screen
+2. Ask the user for their name and location
+3. Their name in Title format and Location in Uppercase
+4. Prompt the user for their gender and print the first character only
+5. Ask the user for their birth year and print their current age to the screen
 '''
 
 '''
@@ -13,6 +12,7 @@ Tips:
 - For uppercase format, .upper()
 - Use string slicing
 - Use variables to store your calculation
+- Remember that all input from the user is registered as a string value
 '''
 
 # Here is the first variable done for you
