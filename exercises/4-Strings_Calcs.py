@@ -8,7 +8,7 @@
 
 '''
 Tips:
-- To use the TItle format use .title()
+- To use the Title format, .title()
 - For uppercase format, .upper()
 - Use string slicing
 - Use variables to store your calculation
