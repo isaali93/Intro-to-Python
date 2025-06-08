@@ -11,6 +11,7 @@ Tips:
 - To use the Title format, .title()
 - For uppercase format, .upper()
 - Use string slicing
+- The first value is at position 0
 - Use variables to store your calculation
 - Remember that all input from the user is registered as a string value
 '''
