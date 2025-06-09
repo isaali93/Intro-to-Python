@@ -31,4 +31,13 @@ Here you will find 3 project concepts where at the end of each week, you build o
 Pick the project concept of your interest and build it as we go through the classes.
 
 **Projects**
+
 [Project folder](projects/)
+
+> [!IMPORTANT]
+> Remember to check after classes for updates to the projects.
+
+[_Cybersecurity_](projects/project-Cybersecurity.py)
+[_Cryptocurrency_](projects/project-Cyptocurrency.py)
+[_Finance_](projects/project-Finance.py)
+
