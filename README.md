@@ -13,3 +13,19 @@
 * [Chapter 8 - File Handling](chapters/chp08-File_Handling.md)
 * [Chapter 9 - Error Handling](chapters/chp09-Error_Handling.md)
 * [Chapter 10 - Classes](chapters/chp10-Classes.md)
+
+## Exercises
+
+The exercises section contains practice exercises for you to try on your own. The top of each exercise contains instructions to complete the exercise and other also contain tips to help.
+
+**Exercises for Chapter 1 and Chapter 2**
+* [Exercise 1](exercises/1-syntax.py)
+* [Exercise 2](exercises/2-syntax.py)
+* [Exercise 3](exercises/3-calc.py)
+* [Exercise 4](exercises/4-Strings_Calcs.py)
+* [Exercise 5](exercises/5-split_strings.py)
+
+## Projects
+
+Here you will find 3 project concepts where at the end of each week, you build on it. Each project is targeted towards different interests (Crypto, Finance, Security).
+Pick the project concept of your interest and build it as we go through the classes.
