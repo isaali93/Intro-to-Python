@@ -37,9 +37,7 @@ Pick the project concept of your interest and build it as we go through the clas
 > [!IMPORTANT]
 > Remember to check after classes for updates to the projects.
 
-[_Cybersecurity_](projects/project-Cybersecurity.py)
-
-[_Cryptocurrency_](projects/project-Cyptocurrency.py)
-
-[_Finance_](projects/project-Finance.py)
+* [_Cybersecurity_](projects/project-Cybersecurity.py)
+* [_Cryptocurrency_](projects/project-Cyptocurrency.py)
+* [_Finance_](projects/project-Finance.py)
 
