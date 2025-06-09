@@ -32,8 +32,6 @@ Pick the project concept of your interest and build it as we go through the clas
 
 **Projects**
 
-[Project folder](projects/)
-
 > [!IMPORTANT]
 > Remember to check after classes for updates to the projects.
 
