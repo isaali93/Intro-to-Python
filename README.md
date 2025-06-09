@@ -29,3 +29,6 @@ The exercises section contains practice exercises for you to try on your own. Th
 
 Here you will find 3 project concepts where at the end of each week, you build on it. Each project is targeted towards different interests (Crypto, Finance, Security).
 Pick the project concept of your interest and build it as we go through the classes.
+
+**Projects**
+[Project folder](projects/)
