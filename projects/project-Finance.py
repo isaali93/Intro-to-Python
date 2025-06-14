@@ -10,3 +10,11 @@ Create a simple program that:
     - Calculates remaining balance
     - Displays a simple financial summary
 """
+
+# Week 2
+"""
+    - Add expense categorization (housing, food, transportation, etc.)
+    - Implement budget limits for each category
+    - Create conditional warnings when approaching budget limits
+    - Calculate percentage of income spent per category
+"""
