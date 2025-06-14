@@ -13,6 +13,7 @@ Create a simple program that:
 
 # Week 2
 """
+Features to add:
     - Add expense categorization (housing, food, transportation, etc.)
     - Implement budget limits for each category
     - Create conditional warnings when approaching budget limits
