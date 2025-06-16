@@ -2,15 +2,17 @@
 Let's assume that you have a program that checks username, password and group
 before granting access to a file.
 
-  1. Write a program that asks a user for their username and password.
-  2. The program then checks to see if it matches either of the usernames
-  provided in the user1_permission and user2_permission variables
-  3. If there is a match, print the group level
+Write a basic authentication mechanism
 
-TIP
-- Use the .split on the variables
-- Use string "addition": "username" + ":" + "password"
-- Some of the code has already been provided
+  1. Write a program that asks a user for their username and password.
+  2. The program should then check to see if it matches either of the usernames
+  provided in the user1_permission and user2_permission variables
+  3. If there is a match, check the password
+  4. Once both the username and password matches, print the group
+
+TIPS
+  - Use the .split on the variables
+  - Use string math: "username" + ":" + "password"
 '''
 
 #Structure - username:password:group
