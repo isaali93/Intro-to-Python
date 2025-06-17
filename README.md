@@ -18,12 +18,9 @@
 
 The exercises section contains practice exercises for you to try on your own. The top of each exercise contains instructions to complete the exercise and other also contain tips to help.
 
-**Exercises for Chapter 1 and Chapter 2**
-* [Exercise 1](exercises/1-syntax.py)
-* [Exercise 2](exercises/2-syntax.py)
-* [Exercise 3](exercises/3-calc.py)
-* [Exercise 4](exercises/4-Strings_Calcs.py)
-* [Exercise 5](exercises/5-split_strings.py)
+**Exercises added**
+- Exercises fpr Chapters 1 and 2
+- Exercises for Chapter 3
 
 ## Projects
 
