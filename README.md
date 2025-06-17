@@ -19,7 +19,7 @@
 The exercises section contains practice exercises for you to try on your own. The top of each exercise contains instructions to complete the exercise and other also contain tips to help.
 
 **Exercises added**
-- Exercises fpr Chapters 1 and 2
+- Exercises for Chapters 1 and 2
 - Exercises for Chapter 3
 
 ## Projects
