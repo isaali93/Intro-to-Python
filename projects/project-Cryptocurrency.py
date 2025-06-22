@@ -20,3 +20,16 @@ Add these features to this project
         2. Provide different messages based on profit/loss thresholds
         3. Flag significant gains or losses with warnings or celebrations
 """
+
+# Week 3
+"""
+New additions for your program:
+    - Convert to a menu-driven program with a main loop
+    - Store multiple cryptocurrencies in lists
+    - Add features to:
+        - Add new assets to portfolio
+        - View complete portfolio summary
+        - Calculate total portfolio value
+        - Identify best and worst performing assets
+    - Implement simple portfolio diversification metrics
+"""
