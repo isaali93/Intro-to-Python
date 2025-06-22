@@ -17,3 +17,11 @@ Add the following Features:
     - Implement conditional feedback on password strength
     - Allow user to decide whether to save the password based on strength
 """
+
+# Week 3
+"""
+Include the following to your program:
+    - Convert to a menu-driven program with a loop
+    - Store multiple sets of credentials in a list of program/service:password pair (eg. google.com:password)
+    - Implement features to add, view, and search for credentials
+"""
