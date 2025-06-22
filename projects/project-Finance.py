@@ -19,3 +19,16 @@ Features to add:
     - Create conditional warnings when approaching budget limits
     - Calculate percentage of income spent per category
 """
+
+# Week 3
+"""
+Add the following:
+    - Convert to a menu-driven program with a loop
+    - Store multiple expenses in lists
+    - Add features to:
+        - Enter multiple expenses
+        - View all expenses
+        - Calculate total spending by category
+        - Find largest expense
+    - Implement date tracking for expenses (using strings initially)
+"""
