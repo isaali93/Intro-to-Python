@@ -2,7 +2,8 @@
 Here is a template program to work with.
 You have been given a function that generates a deck of cards and returns it as a list
 
-Write a program that "deals" 6 cards to a player.
+1. Write a program that "deals" 6 cards to a player.
+2. Print the number of cards in the deck before dealing cards and after dealing cards.
 
 TIP
 - Use the player_hand variable to store the cards
