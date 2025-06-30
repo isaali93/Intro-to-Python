@@ -1,4 +1,4 @@
 """
-1. Write a function that accepts one parameter
-2. The function should print to the screen the number of characters in the received data
+1. Write a function that prints a welcome message
+2. Call the function to show the message to the user when they run the program
 """
