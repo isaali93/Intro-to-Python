@@ -33,3 +33,29 @@ New additions for your program:
         - Identify best and worst performing assets
     - Implement simple portfolio diversification metrics
 """
+
+# Week 4
+"""
+Include the following:
+    - Use dictionaries to store detailed asset information
+    - Implement saving/loading portfolio data to/from files
+    - Add transaction history (buys/sells) for each asset
+    - Calculate average purchase price (dollar-cost averaging)
+    - Create portfolio allocation visualization (text-based)
+
+Additonal features (optional):
+    - Refactor code into organized functions
+    - Create analytical functions:
+        - Calculate portfolio diversity score
+        - Generate profit/loss reports by time period
+        - Project potential future values (simple)
+        - Analyze portfolio allocation percentages
+    - Add support for different fiat currencies (USD, EUR, etc.)
+    - Implement comprehensive input validation
+    - Add portfolio backup and restore functionality
+    - Create a simple market simulation to:
+        - Model potential price movements
+        - Calculate potential gains/losses under different scenarios
+        - Implement basic "stop-loss" planning
+    - Add data validation to prevent corruption of portfolio data
+"""
