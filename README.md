@@ -21,6 +21,7 @@ The exercises section contains practice exercises for you to try on your own. Th
 **Exercises added**
 - Exercises for Chapters 1 and 2
 - Exercises for Chapter 3
+- Exercises for Chapter 4, 5 and 6
 
 ## Projects
 
