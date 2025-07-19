@@ -247,7 +247,7 @@ Let's talk _abstraction_.
 
 Abstraction is the idea of handling complexity while hiding the unnecessary details.
 
-This should feel pretty familiar. Right? Right??? This feels like encapsulation all over again and you'd be right to think that. In fact, knowing the difference between the two in most cases is not worth knowing in most cases.
+This should feel pretty familiar. Right? Right??? This feels like encapsulation all over again and you'd be right to think that. In fact, knowing the difference between the two in most cases is not worth knowing.
 
 * Abstraction is all about _creating a simple interface for complex behaviour_.
 * Encapsulation is about _hiding internal states_.
